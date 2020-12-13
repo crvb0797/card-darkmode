@@ -5,6 +5,9 @@ card la cual podamos cambiar de modo claro a oscuro desde un checkbox personaliz
 arrow function para generar las funciones necesarias para agregar, quitar y cambiar clases en 
 el documento HTML y en las etiquetas, además de utiliza pseudoclases para generar un switch mucho más amigable con el usuario. 
 
+# Resultados
+- https://darkmode-card.netlify.app/
+
 # Redes sociales
 - [https://www.instagram.com/carlos_0497/](https://www.instagram.com/carlos_0497/)
 - [https://twitter.com/CRVB_0797](https://twitter.com/CRVB_0797)
